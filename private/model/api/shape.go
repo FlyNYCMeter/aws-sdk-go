@@ -9,7 +9,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/aws/aws-sdk-go/private/util"
+	"github.com/upstartmobile/aws-sdk-go/private/util"
 )
 
 // A ShapeRef defines the usage of a shape within the API.

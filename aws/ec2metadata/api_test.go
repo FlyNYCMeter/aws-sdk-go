@@ -10,10 +10,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/ec2metadata"
-	"github.com/aws/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/aws"
+	"github.com/upstartmobile/aws-sdk-go/aws/awserr"
+	"github.com/upstartmobile/aws-sdk-go/aws/ec2metadata"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
 )
 
 func initTestServer(path string, resp string) *httptest.Server {

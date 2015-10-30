@@ -4,8 +4,8 @@ import (
 	"encoding/xml"
 	"io"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/aws/awserr"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
 )
 
 type xmlErrorResponse struct {

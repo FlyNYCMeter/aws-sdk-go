@@ -2,9 +2,9 @@
 package efs
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/awstesting/integration/smoke"
-	"github.com/aws/aws-sdk-go/service/efs"
+	"github.com/upstartmobile/aws-sdk-go/aws"
+	"github.com/upstartmobile/aws-sdk-go/awstesting/integration/smoke"
+	"github.com/upstartmobile/aws-sdk-go/service/efs"
 	. "github.com/lsegal/gucumber"
 )
 

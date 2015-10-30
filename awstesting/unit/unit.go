@@ -2,8 +2,8 @@
 package unit
 
 import (
-	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/aws/aws-sdk-go/aws/defaults"
+	"github.com/upstartmobile/aws-sdk-go/aws/credentials"
+	"github.com/upstartmobile/aws-sdk-go/aws/defaults"
 )
 
 // Imported is a marker to ensure that this package's init() function gets

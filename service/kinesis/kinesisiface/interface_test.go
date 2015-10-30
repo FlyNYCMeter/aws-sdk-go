@@ -5,8 +5,8 @@ package kinesisiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/kinesis"
-	"github.com/aws/aws-sdk-go/service/kinesis/kinesisiface"
+	"github.com/upstartmobile/aws-sdk-go/service/kinesis"
+	"github.com/upstartmobile/aws-sdk-go/service/kinesis/kinesisiface"
 	"github.com/stretchr/testify/assert"
 )
 

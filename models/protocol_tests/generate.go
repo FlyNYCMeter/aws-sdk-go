@@ -13,9 +13,9 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/aws/aws-sdk-go/awstesting"
-	"github.com/aws/aws-sdk-go/private/model/api"
-	"github.com/aws/aws-sdk-go/private/util"
+	"github.com/upstartmobile/aws-sdk-go/awstesting"
+	"github.com/upstartmobile/aws-sdk-go/private/model/api"
+	"github.com/upstartmobile/aws-sdk-go/private/util"
 )
 
 type testSuite struct {
@@ -74,9 +74,9 @@ var extraImports = []string{
 	"time",
 	"net/url",
 	"",
-	"github.com/aws/aws-sdk-go/awstesting",
-	"github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil",
-	"github.com/aws/aws-sdk-go/private/util",
+	"github.com/upstartmobile/aws-sdk-go/awstesting",
+	"github.com/upstartmobile/aws-sdk-go/private/protocol/xml/xmlutil",
+	"github.com/upstartmobile/aws-sdk-go/private/util",
 	"github.com/stretchr/testify/assert",
 }
 

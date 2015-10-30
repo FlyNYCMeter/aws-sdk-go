@@ -1,6 +1,6 @@
 package simpledb
 
-import "github.com/aws/aws-sdk-go/aws/service"
+import "github.com/upstartmobile/aws-sdk-go/aws/service"
 
 func init() {
 	initService = func(s *service.Service) {

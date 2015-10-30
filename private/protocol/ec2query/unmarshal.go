@@ -6,9 +6,9 @@ import (
 	"encoding/xml"
 	"io"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil"
+	"github.com/upstartmobile/aws-sdk-go/aws/awserr"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/private/protocol/xml/xmlutil"
 )
 
 // Unmarshal unmarshals a response body for the EC2 protocol.

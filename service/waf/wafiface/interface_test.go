@@ -5,8 +5,8 @@ package wafiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/waf"
-	"github.com/aws/aws-sdk-go/service/waf/wafiface"
+	"github.com/upstartmobile/aws-sdk-go/service/waf"
+	"github.com/upstartmobile/aws-sdk-go/service/waf/wafiface"
 	"github.com/stretchr/testify/assert"
 )
 

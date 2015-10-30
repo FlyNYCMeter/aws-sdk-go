@@ -5,8 +5,8 @@ package cognitoidentityiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/cognitoidentity"
-	"github.com/aws/aws-sdk-go/service/cognitoidentity/cognitoidentityiface"
+	"github.com/upstartmobile/aws-sdk-go/service/cognitoidentity"
+	"github.com/upstartmobile/aws-sdk-go/service/cognitoidentity/cognitoidentityiface"
 	"github.com/stretchr/testify/assert"
 )
 

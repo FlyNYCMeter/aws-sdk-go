@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/opsworks"
+	"github.com/upstartmobile/aws-sdk-go/aws"
+	"github.com/upstartmobile/aws-sdk-go/service/opsworks"
 )
 
 var _ time.Duration

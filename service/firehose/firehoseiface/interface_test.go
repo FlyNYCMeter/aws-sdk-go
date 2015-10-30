@@ -5,8 +5,8 @@ package firehoseiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/firehose"
-	"github.com/aws/aws-sdk-go/service/firehose/firehoseiface"
+	"github.com/upstartmobile/aws-sdk-go/service/firehose"
+	"github.com/upstartmobile/aws-sdk-go/service/firehose/firehoseiface"
 	"github.com/stretchr/testify/assert"
 )
 

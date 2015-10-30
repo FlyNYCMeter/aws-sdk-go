@@ -4,8 +4,8 @@
 package dynamodbstreamsiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/dynamodbstreams"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/service/dynamodbstreams"
 )
 
 // DynamoDBStreamsAPI is the interface type for dynamodbstreams.DynamoDBStreams.

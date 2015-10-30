@@ -6,12 +6,12 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/aws/service"
-	"github.com/aws/aws-sdk-go/aws/service/serviceinfo"
+	"github.com/upstartmobile/aws-sdk-go/aws"
+	"github.com/upstartmobile/aws-sdk-go/aws/awserr"
+	"github.com/upstartmobile/aws-sdk-go/aws/credentials"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/aws/service"
+	"github.com/upstartmobile/aws-sdk-go/aws/service/serviceinfo"
 )
 
 // DefaultRetries states the default number of times the service client will

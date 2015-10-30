@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/credentials"
+	"github.com/upstartmobile/aws-sdk-go/aws/credentials"
 )
 
 // DefaultRetries is the default number of retries for a service. The value of

@@ -5,8 +5,8 @@ package stsiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/sts"
-	"github.com/aws/aws-sdk-go/service/sts/stsiface"
+	"github.com/upstartmobile/aws-sdk-go/service/sts"
+	"github.com/upstartmobile/aws-sdk-go/service/sts/stsiface"
 	"github.com/stretchr/testify/assert"
 )
 

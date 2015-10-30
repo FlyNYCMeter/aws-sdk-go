@@ -5,8 +5,8 @@ package iotiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/iot"
-	"github.com/aws/aws-sdk-go/service/iot/iotiface"
+	"github.com/upstartmobile/aws-sdk-go/service/iot"
+	"github.com/upstartmobile/aws-sdk-go/service/iot/iotiface"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,8 +5,8 @@ package marketplacecommerceanalyticsiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/marketplacecommerceanalytics"
-	"github.com/aws/aws-sdk-go/service/marketplacecommerceanalytics/marketplacecommerceanalyticsiface"
+	"github.com/upstartmobile/aws-sdk-go/service/marketplacecommerceanalytics"
+	"github.com/upstartmobile/aws-sdk-go/service/marketplacecommerceanalytics/marketplacecommerceanalyticsiface"
 	"github.com/stretchr/testify/assert"
 )
 

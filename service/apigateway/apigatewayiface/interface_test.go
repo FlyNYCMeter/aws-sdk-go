@@ -5,8 +5,8 @@ package apigatewayiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/apigateway"
-	"github.com/aws/aws-sdk-go/service/apigateway/apigatewayiface"
+	"github.com/upstartmobile/aws-sdk-go/service/apigateway"
+	"github.com/upstartmobile/aws-sdk-go/service/apigateway/apigatewayiface"
 	"github.com/stretchr/testify/assert"
 )
 

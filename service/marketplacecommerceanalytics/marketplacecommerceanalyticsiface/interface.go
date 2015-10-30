@@ -4,8 +4,8 @@
 package marketplacecommerceanalyticsiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/marketplacecommerceanalytics"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/service/marketplacecommerceanalytics"
 )
 
 // MarketplaceCommerceAnalyticsAPI is the interface type for marketplacecommerceanalytics.MarketplaceCommerceAnalytics.

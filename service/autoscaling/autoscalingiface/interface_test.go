@@ -5,8 +5,8 @@ package autoscalingiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/autoscaling"
-	"github.com/aws/aws-sdk-go/service/autoscaling/autoscalingiface"
+	"github.com/upstartmobile/aws-sdk-go/service/autoscaling"
+	"github.com/upstartmobile/aws-sdk-go/service/autoscaling/autoscalingiface"
 	"github.com/stretchr/testify/assert"
 )
 

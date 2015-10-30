@@ -3,7 +3,7 @@ package request
 import (
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
+	"github.com/upstartmobile/aws-sdk-go/aws/awserr"
 )
 
 // Retryer is an interface to control retry logic for a given service.

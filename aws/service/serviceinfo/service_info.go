@@ -1,6 +1,6 @@
 package serviceinfo
 
-import "github.com/aws/aws-sdk-go/aws"
+import "github.com/upstartmobile/aws-sdk-go/aws"
 
 // ServiceInfo wraps immutable data from the service.Service structure.
 type ServiceInfo struct {

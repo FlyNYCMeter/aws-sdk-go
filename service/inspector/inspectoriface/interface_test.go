@@ -5,8 +5,8 @@ package inspectoriface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/inspector"
-	"github.com/aws/aws-sdk-go/service/inspector/inspectoriface"
+	"github.com/upstartmobile/aws-sdk-go/service/inspector"
+	"github.com/upstartmobile/aws-sdk-go/service/inspector/inspectoriface"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,8 +5,8 @@ package elastictranscoderiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/elastictranscoder"
-	"github.com/aws/aws-sdk-go/service/elastictranscoder/elastictranscoderiface"
+	"github.com/upstartmobile/aws-sdk-go/service/elastictranscoder"
+	"github.com/upstartmobile/aws-sdk-go/service/elastictranscoder/elastictranscoderiface"
 	"github.com/stretchr/testify/assert"
 )
 

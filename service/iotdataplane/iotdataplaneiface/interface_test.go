@@ -5,8 +5,8 @@ package iotdataplaneiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/iotdataplane"
-	"github.com/aws/aws-sdk-go/service/iotdataplane/iotdataplaneiface"
+	"github.com/upstartmobile/aws-sdk-go/service/iotdataplane"
+	"github.com/upstartmobile/aws-sdk-go/service/iotdataplane/iotdataplaneiface"
 	"github.com/stretchr/testify/assert"
 )
 

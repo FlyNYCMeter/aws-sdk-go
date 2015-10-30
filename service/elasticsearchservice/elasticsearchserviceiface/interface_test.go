@@ -5,8 +5,8 @@ package elasticsearchserviceiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/elasticsearchservice"
-	"github.com/aws/aws-sdk-go/service/elasticsearchservice/elasticsearchserviceiface"
+	"github.com/upstartmobile/aws-sdk-go/service/elasticsearchservice"
+	"github.com/upstartmobile/aws-sdk-go/service/elasticsearchservice/elasticsearchserviceiface"
 	"github.com/stretchr/testify/assert"
 )
 

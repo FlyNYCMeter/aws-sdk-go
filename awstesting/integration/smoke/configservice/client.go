@@ -2,8 +2,8 @@
 package configservice
 
 import (
-	"github.com/aws/aws-sdk-go/awstesting/integration/smoke"
-	"github.com/aws/aws-sdk-go/service/configservice"
+	"github.com/upstartmobile/aws-sdk-go/awstesting/integration/smoke"
+	"github.com/upstartmobile/aws-sdk-go/service/configservice"
 	. "github.com/lsegal/gucumber"
 )
 

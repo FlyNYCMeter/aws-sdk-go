@@ -5,8 +5,8 @@ package cloudhsmiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/cloudhsm"
-	"github.com/aws/aws-sdk-go/service/cloudhsm/cloudhsmiface"
+	"github.com/upstartmobile/aws-sdk-go/service/cloudhsm"
+	"github.com/upstartmobile/aws-sdk-go/service/cloudhsm/cloudhsmiface"
 	"github.com/stretchr/testify/assert"
 )
 

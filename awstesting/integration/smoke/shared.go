@@ -13,10 +13,10 @@ import (
 	. "github.com/lsegal/gucumber"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/awsutil"
-	"github.com/aws/aws-sdk-go/aws/defaults"
+	"github.com/upstartmobile/aws-sdk-go/aws"
+	"github.com/upstartmobile/aws-sdk-go/aws/awserr"
+	"github.com/upstartmobile/aws-sdk-go/aws/awsutil"
+	"github.com/upstartmobile/aws-sdk-go/aws/defaults"
 )
 
 // Imported is a marker to ensure that this package's init() function gets

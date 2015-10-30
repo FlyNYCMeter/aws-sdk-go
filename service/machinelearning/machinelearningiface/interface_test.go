@@ -5,8 +5,8 @@ package machinelearningiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/machinelearning"
-	"github.com/aws/aws-sdk-go/service/machinelearning/machinelearningiface"
+	"github.com/upstartmobile/aws-sdk-go/service/machinelearning"
+	"github.com/upstartmobile/aws-sdk-go/service/machinelearning/machinelearningiface"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,8 +4,8 @@
 package elbiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/elb"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/service/elb"
 )
 
 // ELBAPI is the interface type for elb.ELB.

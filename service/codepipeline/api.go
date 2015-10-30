@@ -6,8 +6,8 @@ package codepipeline
 import (
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/awsutil"
-	"github.com/aws/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/aws/awsutil"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
 )
 
 const opAcknowledgeJob = "AcknowledgeJob"

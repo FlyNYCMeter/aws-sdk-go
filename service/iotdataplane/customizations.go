@@ -1,8 +1,8 @@
 package iotdataplane
 
 import (
-	//	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/service"
+	//	"github.com/upstartmobile/aws-sdk-go/aws"
+	"github.com/upstartmobile/aws-sdk-go/aws/service"
 )
 
 func init() {

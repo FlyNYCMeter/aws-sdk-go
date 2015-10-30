@@ -2,7 +2,7 @@ package dynamodbattribute_test
 
 import (
 	"fmt"
-	"github.com/aws/aws-sdk-go/service/dynamodb/dynamodbattribute"
+	"github.com/upstartmobile/aws-sdk-go/service/dynamodb/dynamodbattribute"
 	"reflect"
 )
 

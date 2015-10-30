@@ -4,8 +4,8 @@
 package codecommitiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/codecommit"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/service/codecommit"
 )
 
 // CodeCommitAPI is the interface type for codecommit.CodeCommit.

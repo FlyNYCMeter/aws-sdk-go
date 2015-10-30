@@ -5,8 +5,8 @@ package simpledbiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/simpledb"
-	"github.com/aws/aws-sdk-go/service/simpledb/simpledbiface"
+	"github.com/upstartmobile/aws-sdk-go/service/simpledb"
+	"github.com/upstartmobile/aws-sdk-go/service/simpledb/simpledbiface"
 	"github.com/stretchr/testify/assert"
 )
 

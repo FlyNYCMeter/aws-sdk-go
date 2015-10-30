@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/awsutil"
-	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/aws/aws-sdk-go/service/s3/s3iface"
+	"github.com/upstartmobile/aws-sdk-go/aws/awserr"
+	"github.com/upstartmobile/aws-sdk-go/aws/awsutil"
+	"github.com/upstartmobile/aws-sdk-go/service/s3"
+	"github.com/upstartmobile/aws-sdk-go/service/s3/s3iface"
 )
 
 // MaxUploadParts is the maximum allowed number of parts in a multi-part upload

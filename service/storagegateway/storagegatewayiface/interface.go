@@ -4,8 +4,8 @@
 package storagegatewayiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/storagegateway"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/service/storagegateway"
 )
 
 // StorageGatewayAPI is the interface type for storagegateway.StorageGateway.

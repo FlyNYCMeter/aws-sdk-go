@@ -4,8 +4,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/iotdataplane"
+	"github.com/upstartmobile/aws-sdk-go/aws"
+	"github.com/upstartmobile/aws-sdk-go/service/iotdataplane"
 )
 
 func TestRequireEndpointIfRegionProvided(t *testing.T) {

@@ -3,13 +3,13 @@
 package cloudsearch
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/defaults"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/aws/service"
-	"github.com/aws/aws-sdk-go/aws/service/serviceinfo"
-	"github.com/aws/aws-sdk-go/private/protocol/query"
-	"github.com/aws/aws-sdk-go/private/signer/v4"
+	"github.com/upstartmobile/aws-sdk-go/aws"
+	"github.com/upstartmobile/aws-sdk-go/aws/defaults"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/aws/service"
+	"github.com/upstartmobile/aws-sdk-go/aws/service/serviceinfo"
+	"github.com/upstartmobile/aws-sdk-go/private/protocol/query"
+	"github.com/upstartmobile/aws-sdk-go/private/signer/v4"
 )
 
 // You use the Amazon CloudSearch configuration service to create, configure,

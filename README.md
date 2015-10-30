@@ -3,11 +3,11 @@
 [![API Reference](http://img.shields.io/badge/api-reference-blue.svg)](http://docs.aws.amazon.com/sdk-for-go/api)
 [![Join the chat at https://gitter.im/aws/aws-sdk-go](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aws/aws-sdk-go?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://img.shields.io/travis/aws/aws-sdk-go.svg)](https://travis-ci.org/aws/aws-sdk-go)
-[![Apache V2 License](http://img.shields.io/badge/license-Apache%20V2-blue.svg)](https://github.com/aws/aws-sdk-go/blob/master/LICENSE.txt)
+[![Apache V2 License](http://img.shields.io/badge/license-Apache%20V2-blue.svg)](https://github.com/upstartmobile/aws-sdk-go/blob/master/LICENSE.txt)
 
 aws-sdk-go is the official AWS SDK for the Go programming language.
 
-Checkout our [release notes](https://github.com/aws/aws-sdk-go/releases) for information about the latest bug fixes, updates, and features added to the SDK.
+Checkout our [release notes](https://github.com/upstartmobile/aws-sdk-go/releases) for information about the latest bug fixes, updates, and features added to the SDK.
 
 **Release [v0.9.0rc1](http://aws.amazon.com/releasenotes/2948141298714307) introduced a breaking change to the SDK. See the release notes for details of the change and instructions to migrate to the latest SDK version.**
 
@@ -23,7 +23,7 @@ Please do not confuse this for a stable, feature-complete library.
 Note that while most AWS protocols are currently supported, not all services
 available in this package are implemented fully, as some require extra
 customizations to work with the SDK. If you've encountered such a scenario,
-please open a [GitHub issue](https://github.com/aws/aws-sdk-go/issues)
+please open a [GitHub issue](https://github.com/upstartmobile/aws-sdk-go/issues)
 so we can track work for the service.
 
 ## Installing
@@ -31,11 +31,11 @@ so we can track work for the service.
 Install your specific service package with the following `go get` command.
 For example, EC2 support might be installed with:
 
-    $ go get github.com/aws/aws-sdk-go/service/ec2
+    $ go get github.com/upstartmobile/aws-sdk-go/service/ec2
 
 You can also install the entire SDK by installing the root package, including all of the SDK's dependencies:
 
-    $ go get -u github.com/aws/aws-sdk-go/...
+    $ go get -u github.com/upstartmobile/aws-sdk-go/...
 
 ## Configuring Credentials
 
@@ -73,8 +73,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/ec2"
+	"github.com/upstartmobile/aws-sdk-go/aws"
+	"github.com/upstartmobile/aws-sdk-go/service/ec2"
 )
 
 func main() {

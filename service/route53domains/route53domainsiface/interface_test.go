@@ -5,8 +5,8 @@ package route53domainsiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/route53domains"
-	"github.com/aws/aws-sdk-go/service/route53domains/route53domainsiface"
+	"github.com/upstartmobile/aws-sdk-go/service/route53domains"
+	"github.com/upstartmobile/aws-sdk-go/service/route53domains/route53domainsiface"
 	"github.com/stretchr/testify/assert"
 )
 

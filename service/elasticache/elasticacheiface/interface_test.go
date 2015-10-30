@@ -5,8 +5,8 @@ package elasticacheiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/elasticache"
-	"github.com/aws/aws-sdk-go/service/elasticache/elasticacheiface"
+	"github.com/upstartmobile/aws-sdk-go/service/elasticache"
+	"github.com/upstartmobile/aws-sdk-go/service/elasticache/elasticacheiface"
 	"github.com/stretchr/testify/assert"
 )
 

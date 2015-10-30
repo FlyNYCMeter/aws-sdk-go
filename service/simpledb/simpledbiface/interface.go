@@ -4,8 +4,8 @@
 package simpledbiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/simpledb"
+	"github.com/upstartmobile/aws-sdk-go/aws/request"
+	"github.com/upstartmobile/aws-sdk-go/service/simpledb"
 )
 
 // SimpleDBAPI is the interface type for simpledb.SimpleDB.
